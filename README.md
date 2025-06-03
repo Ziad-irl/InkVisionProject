@@ -136,7 +136,7 @@ Visualized metrics and prediction vs. ground truth samples will be saved to `/re
   author       = {Ziad M. Hanafi et al.},
   title        = {InkVision: Modular OCR Pipeline for Printed, Handwritten, Table, and Math Recognition},
   year         = {2025},
-  note         = {https://github.com/yourusername/InkVision}
+  note         = {https://github.com/Ziad-irl/InkVision}
 }
 ```
 
