@@ -1,0 +1,5 @@
+model,precision,recall,f1,wer,cer
+Tesseract,92.1,89.5,90.8,7.3,5.4
+EasyOCR,93.2,91.7,92.5,6.1,4.2
+PaddleOCR,94.0,92.5,93.2,5.4,3.9
+InkVision,93.7,92.8,93.2,5.8,4.0

@@ -1,0 +1,5 @@
+model,TP,FP,FN,TN
+Tesseract,9375,0,3978,0
+EasyOCR,9962,0,3391,0
+TrOCR,11684,0,1669,0
+InkVision,11564,0,1789,0

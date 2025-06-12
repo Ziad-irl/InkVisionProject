@@ -1,6 +1,6 @@
-
-data
-
-__pycache__
-.venv
+data/*
+!data/test_samples/
+!data/test_samples/**
+__pycache__/
+.venv/
 *.pyc
