@@ -1,7 +1,7 @@
 
 # 🧠 InkVision: A Unified OCR Pipeline for Printed, Handwritten, Table, and Math Text Recognition
 
-![InkVision Banner](https://raw.githubusercontent.com/Ziad-irl/inkvision/main/assets/banner.png)
+![InkVision Banner](https://raw.githubusercontent.com/Ziad-irl/inkvisionproject/main/assets/banner.png)
 
 > 📌 InkVision is a modular OCR pipeline that integrates multiple state-of-the-art OCR models to extract printed, handwritten, tabular, and mathematical expressions from images with high accuracy.
 
@@ -136,7 +136,7 @@ Visualized metrics and prediction vs. ground truth samples will be saved to `/re
   author       = {Ziad M. Hanafi et al.},
   title        = {InkVision: Modular OCR Pipeline for Printed, Handwritten, Table, and Math Recognition},
   year         = {2025},
-  note         = {https://github.com/yourusername/InkVision}
+  note         = {https://github.com/Ziad-irl/InkVision}
 }
 ```
 
